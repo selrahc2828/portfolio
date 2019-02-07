@@ -25,12 +25,4 @@ Ce portfolio est un requis à l'obtention du diplôme du BTS option SLAM. Son bu
 
 Analyse des délais de production d'un service avec utilisation du diagramme de **Gantt** ou de **Pert**
 
-```mermaid
-graph LR
-A[Début du projet] -- 2 --> B[Feature 1]
-A -- 4 --> C[Feature 2]
-B -- 1 --> D[Merge]
-C -- 1 --> D
-D -- 2 --> E[Mise en prod]
-E -- 1 --> F[Livraison]
-```
+###### Last update, 07-02-2019 à 14h10 :)
