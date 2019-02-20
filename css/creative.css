@@ -24,6 +24,8 @@ hr.light {
   border-color: #fff;
 }
 
+a.paddedbtm{margin-bottom: 30px;}
+
 a {
   color: #F05F40;
   -webkit-transition: all 0.2s;
