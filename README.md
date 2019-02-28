@@ -10,11 +10,11 @@ Le portfolio a été réalisé avec un template Bootstrap que voici :
 
 # Projet
 
-Ce portfolio est un requis à l'obtention du diplôme du BTS option SLAM. Son but est de présenter l'étudiant dans sa globalité, ses objectifs de carrière, son parcours, sa mission et vers quelle branche il souhaite se spécialisé.
+Ce portfolio est un requis à l'obtention du diplôme du BTS option SLAM. Son but est de présenter l'étudiant dans sa globalité, ses objectifs de carrière, son parcours, sa mission et vers quelle branche il souhaite se spécialiser.
 
-### SLAM
-- Filiare de développement, apprentissage de la POO dans ses bases, utilisation de framework CSS, et apprentissage des langages du web **HTML5**, **CSS3** et **PHP**.
-	> 3 Projets réalisés dont la création d'une startup avec simulation de financement et création de produit. Business plan et simulation des coûts sur court et long terme.
+### SLAM (mon choix)
+- Filiaire de développement, apprentissage de la POO dans ses bases, utilisation de framework CSS, et apprentissage des langages du web **HTML5**, **CSS3** et **PHP**.
+	> 3 Projets réalisés dont la création d'une startup avec simulation de financement, appel des fournisseurs à l'étranger (en anglais) et création d'un produit. Business plan et simulation des coûts sur court et long terme.
 
 ### SISR
 
